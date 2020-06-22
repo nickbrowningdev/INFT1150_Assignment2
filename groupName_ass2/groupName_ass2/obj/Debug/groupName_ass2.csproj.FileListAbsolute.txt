@@ -1,0 +1,10 @@
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\bin\Debug\groupName_ass2.exe.config
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\bin\Debug\groupName_ass2.exe
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\bin\Debug\groupName_ass2.pdb
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.csprojAssemblyReference.cache
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.LogIn_Form.resources
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.Properties.Resources.resources
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.csproj.GenerateResource.cache
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.csproj.CoreCompileInputs.cache
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.exe
+C:\Users\nbwre\Documents\INFT1150 A2\groupName_ass2\groupName_ass2\obj\Debug\groupName_ass2.pdb
